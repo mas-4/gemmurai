@@ -6,7 +6,7 @@ A training dojo for mastering high-performance linear algebra from first princip
 
 ## The Path
 
-Transform abstract linear algebra theory into blazing fast kernels. From Axler's vector spaces to hand-tuned assembly that rivals commercial BLAS implementations. (ambition is $\frac{7}{10}$ths of the way).
+Transform abstract linear algebra theory into blazing fast kernels. From Axler's vector spaces to hand-tuned assembly that rivals commercial BLAS implementations.
 
 ### The Three Sacred Levels
 
